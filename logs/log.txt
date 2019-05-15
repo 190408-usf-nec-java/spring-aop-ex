@@ -1,0 +1,18 @@
+2019-05-15 13:58:35 TRACE MyAspect:17 - Method being called
+2019-05-15 13:58:35 TRACE MyAspect:17 - Method being called
+2019-05-15 13:58:35 TRACE MyAspect:17 - Method being called
+2019-05-15 14:00:36 TRACE MyAspect:18 - Method being called: void org.springframework.beans.factory.SmartInitializingSingleton.afterSingletonsInstantiated()
+2019-05-15 14:00:37 TRACE MyAspect:18 - Method being called: int com.revature.beans.MyBean.doSomething()
+2019-05-15 14:00:37 TRACE MyAspect:18 - Method being called: int com.revature.beans.BeanFriend.getValue()
+2019-05-15 14:06:10 TRACE MyAspect:20 - Method being called: void org.springframework.beans.factory.SmartInitializingSingleton.afterSingletonsInstantiated()
+2019-05-15 14:06:10 TRACE MyAspect:20 - Method being called: int com.revature.beans.MyBean.doSomething()
+2019-05-15 14:06:10 TRACE MyAspect:20 - Method being called: int com.revature.beans.BeanFriend.getValue()
+2019-05-15 14:08:19 TRACE MyAspect:20 - Method being called: void org.springframework.beans.factory.SmartInitializingSingleton.afterSingletonsInstantiated()
+2019-05-15 14:08:19 TRACE MyAspect:20 - Method being called: int com.revature.beans.MyBean.doSomething()
+2019-05-15 14:08:19 TRACE MyAspect:20 - Method being called: int com.revature.beans.BeanFriend.getValue()
+2019-05-15 14:08:36 TRACE MyAspect:20 - Method being called: void org.springframework.beans.factory.SmartInitializingSingleton.afterSingletonsInstantiated()
+2019-05-15 14:08:36 TRACE MyAspect:20 - Method being called: int com.revature.beans.MyBean.doSomething()
+2019-05-15 14:08:36 TRACE MyAspect:20 - Method being called: int com.revature.beans.BeanFriend.getValue()
+2019-05-15 14:09:20 TRACE MyAspect:20 - Method being called: void org.springframework.beans.factory.SmartInitializingSingleton.afterSingletonsInstantiated()
+2019-05-15 14:09:20 TRACE MyAspect:20 - Method being called: int com.revature.beans.MyBean.doSomething()
+2019-05-15 14:09:20 TRACE MyAspect:20 - Method being called: int com.revature.beans.BeanFriend.getValue()
